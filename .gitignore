@@ -8,7 +8,9 @@
 .buildlog/
 .history
 .svn/
-
+firebase_app_id_file.json
+GoogleService-Info.plist
+google-services.json
 # IntelliJ related
 *.iml
 *.ipr
