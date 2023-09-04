@@ -28,4 +28,19 @@ The Chit Chat App is a real-time messaging application that enables users to con
 - Firebase: Backend services for authentication and real-time data
 - Agora: Real-time communication SDK for video and voice calling
 
+## Installation
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+4. Start the app
+
+## Contributing
+To contribute, please follow these steps:
+-Fork the repository.
+-Create a new branch for your feature: git checkout -b feature-name
+-Make your changes and commit them: git commit -m 'Add new feature'
+-Push to your branch: git push origin feature-name
+-Create a pull request.
+For bug fixes or feature requests, please open an issue to discuss the changes you'd like to make.
+
 
