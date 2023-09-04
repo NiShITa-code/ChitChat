@@ -35,12 +35,12 @@ The Chit Chat App is a real-time messaging application that enables users to con
 4. Start the app
 
 ## Contributing
-To contribute, please follow these steps:
--Fork the repository.
--Create a new branch for your feature: git checkout -b feature-name
--Make your changes and commit them: git commit -m 'Add new feature'
--Push to your branch: git push origin feature-name
--Create a pull request.
+1. To contribute, please follow these steps
+2. Fork the repository.
+3. Create a new branch for your feature: git checkout -b feature-name
+4. Make your changes and commit them: git commit -m 'Add new feature'
+5. Push to your branch: git push origin feature-name
+6. Create a pull request.
 For bug fixes or feature requests, please open an issue to discuss the changes you'd like to make.
 
 
