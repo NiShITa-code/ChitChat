@@ -36,6 +36,12 @@ class _MobileLayoutScreenState extends ConsumerState<MobileLayoutScreen>
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     super.didChangeAppLifecycleState(state);
+    // app lifecycle state are resumed, inactive, paused, detached
+    // resumed -  when the app is visible and responding to user input
+    // inactive - when the app is in the foreground but not receiving user input
+    // paused - when the app is not visible to the user
+    // detached - when the app is still hosted on a flutter engine but is detached from any host views
+
     switch (state) {
       case AppLifecycleState.resumed:
         ref.read(authControllerProvider).setUserState(true);

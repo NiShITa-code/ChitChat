@@ -4,7 +4,6 @@ import 'package:whatsapp_ui/common/widgets/loader.dart';
 import 'package:whatsapp_ui/features/status/controller/status_controller.dart';
 import 'package:whatsapp_ui/features/status/screens/status_screen.dart';
 import 'package:whatsapp_ui/models/status_model.dart';
-
 import '../../../colors.dart';
 
 class StatusContactsScreen extends ConsumerWidget {
